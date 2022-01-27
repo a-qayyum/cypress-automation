@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://demoqa.com",
+    "bookUrl": "https://demoqa.com/books",
+    "viewportWidth": 1000,
+    "viewportHeight": 660,
+    "username": "testuser",
+    "password": "Password1234!"
+}
+  

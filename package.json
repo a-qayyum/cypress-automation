@@ -1,0 +1,22 @@
+{
+  "name": "cypress_automation",
+  "version": "1.0.0",
+  "description": "Cypress Automation Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-qayyum/cypress-automation.git"
+  },
+  "author": "Abdul Qayyum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-qayyum/cypress-automation/issues"
+  },
+  "homepage": "https://github.com/a-qayyum/cypress-automation#readme",
+  "devDependencies": {
+    "cypress": "^9.2.1"
+  }
+}
