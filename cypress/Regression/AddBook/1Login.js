@@ -8,6 +8,7 @@ describe('Login', () => {
             this.data = data;
             cy.visit('/login')    
         })
+        
     })
     
     //Login Test Case
