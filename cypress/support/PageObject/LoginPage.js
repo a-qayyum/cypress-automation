@@ -15,6 +15,9 @@ class LoginPage {
     getUsername(){
         return cy.get('label[id="userName-value"]');
     }
+    clickLogoutButton(){
+        cy.get('#books-wrapper > .text-right > #submit').click()
+    }
 }
 
 
